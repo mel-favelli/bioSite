@@ -1,2 +1,2 @@
 # bioSite
-web biography of David MerricK. created for CSD 340
+biography of David Merrick. created for course CSD-340.
